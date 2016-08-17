@@ -1,5 +1,4 @@
-<img alt="" style="border-width:0" src="https://dl.dropboxusercontent.com/content_link/oTi6xXpc2J4BbJ1sJUuReCLrmB3ToIje3CqQxsEWu2uz48qEqoUiGD2CBiDamkqu/file" />
-
+<img alt="" style="border-width:0" src="https://www.dropbox.com/s/7tvyp06zjngotkg/banner.png?raw=1">
 ## Introducción a Partículas, Astrofísica y Cosmología
 ### Segundo semestre de 2016
 ### Asignatura del séptimo semestre de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")
