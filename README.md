@@ -1,8 +1,37 @@
-<img alt="" style="border-width:0" src="https://www.dropbox.com/s/7tvyp06zjngotkg/banner.png?raw=1">
-## Introducción a Partículas, Astrofísica y Cosmología
-### Segundo semestre de 2016
-### Asignatura del séptimo semestre de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")
-### [https://www.facebook.com/fisicareconocida/](https://www.facebook.com/fisicareconocida/ "Física ReConocida")
+![Banner](materiales/banner.png)
+# Introducción a Partículas, Astrofísica y Cosmología - Segundo semestre de 2017
+
+**Asignatura del séptimo semestre de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")**
+
+Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descarguelo siguiendo el este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
+
+# Contenidos mínimos
+
+Los contenidos mínimos establecidos por el Plan de Estudios de la carrera para este curso son los siguientes:
+
+
+# Programa
+En preparación
+## Primer módulo
+**Del Jueves al Jueves (primer parcial)**
+
+### [Unidad 1]()
+**N encuentros desde el Jueves al Jueves **
+
+### [Unidad 2]()
+**N encuentros desde el Jueves al Jueves **
+
+## Segundo módulo
+**Del Jueves al Jueves (segundo parcial)**
+
+### [Unidad 3]()
+**N encuentros desde el Jueves al Jueves **
+
+### [Unidad 4]()
+**N encuentros desde el Jueves al Jueves **
+
+## Bibliografía obligatoria y complementaria
+
 
 #### (C) 2016 - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
