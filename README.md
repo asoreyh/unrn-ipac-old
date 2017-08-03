@@ -5,6 +5,10 @@
 
 Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descarguelo siguiendo el este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
 
+# Objetivo
+
+Adquirir una perspectiva del estado actual de la Física de Partículas, la Astrofísica y la Cosmología, a un nivel introductorio y que produzca las herramientas para su implementación en el aula de escuelas medias.
+
 # Contenidos mínimos
 
 Los contenidos mínimos establecidos por el Plan de Estudios de la carrera para este curso son los siguientes:
