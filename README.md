@@ -45,7 +45,13 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 
 ## Bibliografía obligatoria y complementaria
 
-Proximamente
+* An Introduction to Modern Astrophysics; Carrol Bradley and Ostille Dale; 2nd Edition; Addison Wesley; 2006; ISBN 978-0805304022
+* El Significado de la Relatividad; Albert Einstein; S.L.U. Espasa; 1921; ISBN 9788467029710
+* Física Universitaria Vol 2, Cap 37; Hugh Young y Roger Freedman (Sears y Semansky); 13ma Edición; Addison Wesley; 2015; ISBN 9786073221245
+* The Nature of Space and Time; Stephen Hawkings and Roger Penrose; Princeton University Press; 2010; ASIN: B003VPWWC0
+* Breve historia del tiempo; Stephen Hawkings; Paidos; 1988; ISBN 9786079377373
+* Física de las noches estrelladas: Astrofísica, Relatividad y Cosmología; Eduardo Battaner; Tusquets Editores; 2011; ISBN: 9788483833421
+* Qué es la vida?; Erwin Schrödinger; Salamanca; 2005.
 
 #### (C) 2016 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
