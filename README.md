@@ -11,32 +11,40 @@ Adquirir una perspectiva del estado actual de la Física de Partículas, la Astr
 
 # Contenidos mínimos
 
-Los contenidos mínimos establecidos por el Plan de Estudios de la carrera para este curso son los siguientes:
+Los contenidos mínimos establecidos por el Plan de Estudios de la carrera para este curso son los siguientes: 
 
+*Estrellas y galaxias. Evolución de las estrellas nacimiento y muerte de las estrellas. Relatividad general: gravedad y la curvatura del espacio. El universo en expansión. El Big-Bang y el fondo cósmico de microondas. El modelo estándar cosmológico. Los primeros tiempos del universo* 
 
 # Programa
-En preparación
+
 ## Primer módulo
-**Del Jueves al Jueves (primer parcial)**
+	**Del Martes 08 de Agosto al Martes 03 de Octubre (primer parcial)**
 
-### [Unidad 1]()
-**N encuentros desde el Jueves al Jueves **
+### [Unidad 1: Todo es relativo](clases/u01)
+	**4 encuentros: desde el Martes 08/Ago al Martes 29/Ago**
 
-### [Unidad 2]()
-**N encuentros desde el Jueves al Jueves **
+Relatividad Especial. Introducción. Cinemática y Dinámica Relativista. Física de Partículas (1ra parte). Radiactividad. Planck, Bosones y Fermiones. Interacciones fundamentales.
+
+### [Unidad 2: Calido y Frío](clases/u02)
+	**5 encuentros desde el Martes 05/Sep al Martes 03/Oct**
+
+Estrellas. Astronomía Observacional: sistemas de coordenadas y mapas estelares. Radiación de Cuerpo Negro. Ley de Eddington, Clasificación estelar, Diagrama H-R. Objetos Compactos y evolución estelar. Planetas. Planetas y Exoplanetas. Vida en el Universo: Astrobiología. Galaxias. Modelos y formación. Ejemplos: La Vía Láctea, Otras Galaxias, GalaxyZoo(*)
 
 ## Segundo módulo
-**Del Jueves al Jueves (segundo parcial)**
+	**Del Martes 04/Oct al Martes 21/Nov (segundo parcial)**
 
-### [Unidad 3]()
-**N encuentros desde el Jueves al Jueves **
+### [Unidad 3: No es lo que se ve, sino lo que se palpa](clases/u03)
+	**4 encuentros desde el Martes 10/Oct al Martes 31/Oct**
 
-### [Unidad 4]()
-**N encuentros desde el Jueves al Jueves **
+Relatividad General. Introducción y conceptos básicos. Modelo de Friedman-Lemaître-Robertson-Walker. El error de Einstein. Modelos del Universo. Formación de estructuras. Midiendo distancias. Corrimiento al rojo. El universo en expansión
+
+### [Unidad 4: Allá lejos y hace tiempo](clases/u04)
+**3 encuentros desde el Martes 07/Nov al Martes 21/Nov**
+
+El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de microondas. Modelo LCDM. Historia térmica del universo. El Big Bang. Primeros segundos del universo. Épocas térmicas de tiempo, inflación, recombinación. Evolución futura del universo. ¿El fin...?
 
 ## Bibliografía obligatoria y complementaria
 
-
-#### (C) 2016 - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
+#### (C) 2016 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabajo se distribuye en forma gratuita bajo la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
