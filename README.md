@@ -18,23 +18,23 @@ Los contenidos mínimos establecidos por el Plan de Estudios de la carrera para 
 # Programa
 
 ## Primer módulo
-	**Del Martes 08 de Agosto al Martes 03 de Octubre (primer parcial)**
+**Del Martes 08 de Agosto al Martes 03 de Octubre (primer parcial)**
 
 ### [Unidad 1: Todo es relativo](clases/u01)
-	**4 encuentros: desde el Martes 08/Ago al Martes 29/Ago**
+**4 encuentros: desde el Martes 08/Ago al Martes 29/Ago**
 
 Relatividad Especial. Introducción. Cinemática y Dinámica Relativista. Física de Partículas (1ra parte). Radiactividad. Planck, Bosones y Fermiones. Interacciones fundamentales.
 
 ### [Unidad 2: Calido y Frío](clases/u02)
-	**5 encuentros desde el Martes 05/Sep al Martes 03/Oct**
+**5 encuentros desde el Martes 05/Sep al Martes 03/Oct**
 
-Estrellas. Astronomía Observacional: sistemas de coordenadas y mapas estelares. Radiación de Cuerpo Negro. Ley de Eddington, Clasificación estelar, Diagrama H-R. Objetos Compactos y evolución estelar. Planetas. Planetas y Exoplanetas. Vida en el Universo: Astrobiología. Galaxias. Modelos y formación. Ejemplos: La Vía Láctea, Otras Galaxias, GalaxyZoo(*)
+Estrellas. Astronomía Observacional: sistemas de coordenadas y mapas estelares. Radiación de Cuerpo Negro. Ley de Eddington, Clasificación estelar, Diagrama H-R. Objetos Compactos y evolución estelar. Planetas. Planetas y Exoplanetas. Vida en el Universo: Astrobiología. Galaxias. Modelos y formación. Ejemplos: La Vía Láctea, Otras Galaxias, GalaxyZoo
 
 ## Segundo módulo
-	**Del Martes 04/Oct al Martes 21/Nov (segundo parcial)**
+**Del Martes 04/Oct al Martes 21/Nov (segundo parcial)**
 
 ### [Unidad 3: No es lo que se ve, sino lo que se palpa](clases/u03)
-	**4 encuentros desde el Martes 10/Oct al Martes 31/Oct**
+**4 encuentros desde el Martes 10/Oct al Martes 31/Oct**
 
 Relatividad General. Introducción y conceptos básicos. Modelo de Friedman-Lemaître-Robertson-Walker. El error de Einstein. Modelos del Universo. Formación de estructuras. Midiendo distancias. Corrimiento al rojo. El universo en expansión
 
@@ -44,6 +44,8 @@ Relatividad General. Introducción y conceptos básicos. Modelo de Friedman-Lema
 El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de microondas. Modelo LCDM. Historia térmica del universo. El Big Bang. Primeros segundos del universo. Épocas térmicas de tiempo, inflación, recombinación. Evolución futura del universo. ¿El fin...?
 
 ## Bibliografía obligatoria y complementaria
+
+Proximamente
 
 #### (C) 2016 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
