@@ -57,7 +57,7 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 
 * 01, U01C01V, 08/08/2017: Introducción general. Sistemas de coordenadas. La relatividad de Galileo. El experimento de Michelson y Morley. Interpretación de Einstein.
 * 02, U01C02P, 15/08/2017: La relatividad especial. Generalidades. Principios e interpretación. El espaciotiempo. 
-* 03, U01C03V, 22/08/2017: 
+* 03, U01C03V, 22/08/2017: Entregada guía 01.
 
 #### (C) 2016 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
