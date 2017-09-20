@@ -60,7 +60,8 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 03, U01C03V, 22/08/2017: Transformaciones de Lorentz: derivación, significado y casos límites. Regla de adición de velocidades y casos límites. La velocidad de la luz como límite. Entregada guía 01.
 * 04, U01C04V, 05/09/2017: Contracción espacial y dilatación temporal. Vida media y longitud de decaimiento para el muón. Dinámica relativista, primera parte
 * 05, U01C05P, 12/09/2017: Repaso de dilatación temporal. La paradoja de los gemelos. Dinámica relativista. Colisiones. Masa y Energía. Límites de baja energía, E0=mc^2, invariante relativista
-* 06, U01C06V, 19/09/2017: Física de partículas
+* 06, U01C06V, 19/09/2017: Radiactividad: procesos, ley de decaimiento exponencial, tipos y características de decaimientos radiactivos.
+* *07, U02C01V, 26/09/2017: Astronomía de posición*
 #### (C) 2016 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabajo se distribuye en forma gratuita bajo la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
