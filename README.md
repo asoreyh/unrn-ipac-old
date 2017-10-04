@@ -62,7 +62,7 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 05, U01C05P, 12/09/2017: Repaso de dilatación temporal. La paradoja de los gemelos. Dinámica relativista. Colisiones. Masa y Energía. Límites de baja energía, E0=mc^2, invariante relativista
 * 06, U01C06V, 19/09/2017: Radiactividad: procesos, ley de decaimiento exponencial, tipos y características de decaimientos radiactivos.
 * 07, U02C01V, 26/09/2017: Repaso de Unidad 01, los movimientos de la Tierra, astronomía de posición, la esfera celeste, sistemas de coordenas celestes: coordenadas horizontales y coordenadas ecuatoriales 
-* *08, U02C02V, 04/10/2017: El tiempo, Proyecciones, Cartas celestes, las estrellas en el cielo, flujo de energía, brillo, magnitudes aparentes y absolutas.*
+* 08, U02C02V, 04/10/2017: El tiempo, Proyecciones, Cartas celestes, las estrellas en el cielo, flujo de energía, brillo, magnitudes aparentes y absolutas.
 #### (C) 2016 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabajo se distribuye en forma gratuita bajo la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
