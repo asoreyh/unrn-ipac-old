@@ -63,7 +63,8 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 06, U01C06V, 19/09/2017: Radiactividad: procesos, ley de decaimiento exponencial, tipos y características de decaimientos radiactivos.
 * 07, U02C01V, 26/09/2017: Repaso de Unidad 01, los movimientos de la Tierra, astronomía de posición, la esfera celeste, sistemas de coordenas celestes: coordenadas horizontales y coordenadas ecuatoriales 
 * 08, U02C02V, 03/10/2017: El tiempo, Proyecciones, Cartas celestes, las estrellas en el cielo, flujo de energía, brillo, magnitudes aparentes y absolutas.
-* *09, U02C03P, 10/10/2017: Estrellas, definición, tipos y características. Espectros, clasificación, tamaños. Cuerpo negro, color y temperatura. Flujo de energía y bolómetros. Principales parámetros y su interrelación: masa, radio, temperatura, edad. El diagrama H-R y la secuencia principal.*
+* 09, U02C03P, 10/10/2017: Estrellas, definición, tipos y características. Espectros, clasificación, tamaños. Cuerpo negro, color y temperatura.
+* *10, U02C04P, 12/10/2017: Estrellas, clasificación, tamaños. Flujo de energía y bolómetros. Principales parámetros y su interrelación: masa, radio, temperatura, edad. El diagrama H-R y la secuencia principal.*
 #### (C) 2016 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabajo se distribuye en forma gratuita bajo la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
