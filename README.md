@@ -66,7 +66,7 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 09, U02C03P, 10/10/2017: Estrellas, definición, tipos y características. Espectros, clasificación, tamaños. Cuerpo negro, color y temperatura.
 * 10, U02C04P, 12/10/2017: Estrellas, clasificación, tamaños. Flujo de energía y bolómetros. Principales parámetros y su interrelación: masa, radio, temperatura, edad. El diagrama H-R y la secuencia principal.
 * 11, U02C05V, 24/10/2017: Fusión nuclear, Fusión en astrofísica, Nacimiento, evolución y final estelar: enanas blancas, estrellas de neutrones y agujeros negros.
-* *12, U02C06V, 31/10/2017: Exoplanetas y Astrobiología*
+* *12, U02C06V, 31/10/2017: Planetas, leyes de movimiento planetario, exoplanetas, Astrobiología*
 * *13, U03C01P, 07/11/2017: TBA*
 * *14, U03C02V, 14/11/2017: TBA*
 * *15, U04C01V, 16/11/2017: TBA*
