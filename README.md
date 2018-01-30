@@ -68,9 +68,10 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 11, U02C05V, 24/10/2017: Fusión nuclear, Fusión en astrofísica, Nacimiento, evolución y final estelar: enanas blancas, estrellas de neutrones y agujeros negros.
 * 12, U02C06V, 31/10/2017: Planetas, leyes de movimiento planetario, exoplanetas, Astrobiología
 * 13, U03C01P, 07/11/2017: Astrobiología 2da parte, Galaxias, La vía Láctea
-* *14, U03C02V, 14/11/2017: Galaxias, Estrutura a gran escala del Universo, Universo Observable*
-* *15, U04C01V, 16/11/2017: TBA*
-* *17, U04C03V, 25/11/2017: TBA*
+* 14, U03C02V, 14/11/2017: Galaxias, Estrutura a gran escala del Universo, Universo Observable
+* 15, U04C01V, 16/11/2017: El modelo estándar, interacciones fundamentales, hadrones, color, gluones y QCD 
+* 17, U04C02V, 20/11/2017: El Universo en expansión, efecto Doppler relativista, la ley de Hubble y el Big Bang, Horizontes, densidad crítica
+* 17, U04C03P, 24/11/2017: La recombinación, el fondo de microondas, nucleosíntesis, modelo LCMD, expansión acelerada, historia térmica, posibles escenarios finales. 
 #### (C) 2016, 2017 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabajo se distribuye en forma gratuita bajo la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
