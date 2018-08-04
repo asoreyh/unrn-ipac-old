@@ -5,6 +5,12 @@
 
 Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descarguelo siguiendo el este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
 
+## [Clases](https://github.com/asoreyh/unrn-f3b/tree/master/clases) ##
+
+## [Guías de ejercicios](https://github.com/asoreyh/unrn-f3b/tree/master/guias) ##
+
+## [Materiales](https://github.com/asoreyh/unrn-f3b/tree/master/materiales) ##
+
 # Objetivo
 
 Adquirir una perspectiva del estado actual de la Física de Partículas, la Astrofísica y la Cosmología, a un nivel introductorio y que produzca las herramientas para su implementación en el aula de escuelas medias.
@@ -20,12 +26,12 @@ Los contenidos mínimos establecidos por el Plan de Estudios de la carrera para 
 ## Primer módulo
 **9 encuentros: del Jueves 08 de Agosto al Jueves 04 de Octubre**
 
-### [Unidad 1: Todo es relativo](clases/u01)
+### [Unidad 1: Todo es relativo](https://github.com/asoreyh/unrn-ipac/tree/master/clases/u01)
 **4 encuentros: desde el Jueves 08/Ago al Jueves 30/Ago**
 
 Relatividad Especial. Introducción. Cinemática y Dinámica Relativista. Física de Partículas (1ra parte). Radiactividad. Planck, Bosones y Fermiones. Interacciones fundamentales.
 
-### [Unidad 2: Calido y Frío](clases/u02)
+### [Unidad 2: Calido y Frío](https://github.com/asoreyh/unrn-ipac/tree/master/clases/u02)
 **5 encuentros desde el Jueves 06/Sep al Jueves 04/Oct**
 
 Estrellas. Astronomía Observacional: sistemas de coordenadas y mapas estelares. Radiación de Cuerpo Negro. Ley de Eddington, Clasificación estelar, Diagrama H-R. Objetos Compactos y evolución estelar. Planetas. Planetas y Exoplanetas. Vida en el Universo: Astrobiología. Galaxias. Modelos y formación. Ejemplos: La Vía Láctea, Otras Galaxias, GalaxyZoo
@@ -33,12 +39,12 @@ Estrellas. Astronomía Observacional: sistemas de coordenadas y mapas estelares.
 ## Segundo módulo
 **7 encuentros: del Jueves 11/Oct al Jueves 22/Nov**
 
-### [Unidad 3: No es lo que se ve, sino lo que se palpa](clases/u03)
+### [Unidad 3: No es lo que se ve, sino lo que se palpa](https://github.com/asoreyh/unrn-ipac/tree/master/clases/u03)
 **3 encuentros desde el Jueves 11/Oct al Jueves 25/Oct**
 
 Relatividad General. Introducción y conceptos básicos. Modelo de Friedman-Lemaître-Robertson-Walker. El error de Einstein. Modelos del Universo. Formación de estructuras. Midiendo distancias. Corrimiento al rojo. El universo en expansión
 
-### [Unidad 4: Allá lejos y hace tiempo](clases/u04)
+### [Unidad 4: Allá lejos y hace tiempo](https://github.com/asoreyh/unrn-ipac/tree/master/clases/u04)
 **4 encuentros desde el Jueves 01/Nov al Jueves 22/Nov**
 
 El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de microondas. Modelo LCDM. Historia térmica del universo. El Big Bang. Primeros segundos del universo. Épocas térmicas de tiempo, inflación, recombinación. Evolución futura del universo. ¿El fin...?
