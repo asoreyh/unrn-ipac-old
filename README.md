@@ -18,28 +18,28 @@ Los contenidos mínimos establecidos por el Plan de Estudios de la carrera para 
 # Programa
 
 ## Primer módulo
-**Del Martes 08 de Agosto al Martes 03 de Octubre (primer parcial)**
+**Del Jueves 08 de Agosto al Jueves 27 de Setiembre**
 
 ### [Unidad 1: Todo es relativo](clases/u01)
-**4 encuentros: desde el Martes 08/Ago al Martes 29/Ago**
+**4 encuentros: desde el Jueves 08/Ago al Jueves 30/Ago**
 
 Relatividad Especial. Introducción. Cinemática y Dinámica Relativista. Física de Partículas (1ra parte). Radiactividad. Planck, Bosones y Fermiones. Interacciones fundamentales.
 
 ### [Unidad 2: Calido y Frío](clases/u02)
-**5 encuentros desde el Martes 05/Sep al Martes 03/Oct**
+**4 encuentros desde el Jueves 06/Sep al Jueves 27/Sep**
 
 Estrellas. Astronomía Observacional: sistemas de coordenadas y mapas estelares. Radiación de Cuerpo Negro. Ley de Eddington, Clasificación estelar, Diagrama H-R. Objetos Compactos y evolución estelar. Planetas. Planetas y Exoplanetas. Vida en el Universo: Astrobiología. Galaxias. Modelos y formación. Ejemplos: La Vía Láctea, Otras Galaxias, GalaxyZoo
 
 ## Segundo módulo
-**Del Martes 04/Oct al Martes 21/Nov (segundo parcial)**
+**Del Jueves 04/Oct al Jueves 22/Nov**
 
 ### [Unidad 3: No es lo que se ve, sino lo que se palpa](clases/u03)
-**4 encuentros desde el Martes 10/Oct al Martes 31/Oct**
+**4 encuentros desde el Jueves 04/Oct al Jueves 25/Oct**
 
 Relatividad General. Introducción y conceptos básicos. Modelo de Friedman-Lemaître-Robertson-Walker. El error de Einstein. Modelos del Universo. Formación de estructuras. Midiendo distancias. Corrimiento al rojo. El universo en expansión
 
 ### [Unidad 4: Allá lejos y hace tiempo](clases/u04)
-**3 encuentros desde el Martes 07/Nov al Martes 21/Nov**
+**3 encuentros desde el Jueves 01/Nov al Jueves 22/Nov**
 
 El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de microondas. Modelo LCDM. Historia térmica del universo. El Big Bang. Primeros segundos del universo. Épocas térmicas de tiempo, inflación, recombinación. Evolución futura del universo. ¿El fin...?
 
@@ -49,7 +49,7 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * El Significado de la Relatividad; Albert Einstein; S.L.U. Espasa; 1921; ISBN 9788467029710
 * Física Universitaria Vol 2, Cap 37; Hugh Young y Roger Freedman (Sears y Semansky); 13ma Edición; Addison Wesley; 2015; ISBN 9786073221245
 * The Nature of Space and Time; Stephen Hawkings and Roger Penrose; Princeton University Press; 2010; ASIN: B003VPWWC0
-* Breve historia del tiempo; Stephen Hawkings; Paidos; 1988; ISBN 9786079377373
+* Breve Historia del Tiempo; Stephen Hawkings; Paidos; 1988; ISBN 9786079377373
 * Física de las noches estrelladas: Astrofísica, Relatividad y Cosmología; Eduardo Battaner; Tusquets Editores; 2011; ISBN: 9788483833421
 * Qué es la vida?; Erwin Schrödinger; Salamanca; 2005.
 
