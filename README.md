@@ -18,7 +18,7 @@ Los contenidos mínimos establecidos por el Plan de Estudios de la carrera para 
 # Programa
 
 ## Primer módulo
-**Del Jueves 08 de Agosto al Jueves 27 de Setiembre**
+**9 encuentros: del Jueves 08 de Agosto al Jueves 04 de Octubre**
 
 ### [Unidad 1: Todo es relativo](clases/u01)
 **4 encuentros: desde el Jueves 08/Ago al Jueves 30/Ago**
@@ -26,20 +26,20 @@ Los contenidos mínimos establecidos por el Plan de Estudios de la carrera para 
 Relatividad Especial. Introducción. Cinemática y Dinámica Relativista. Física de Partículas (1ra parte). Radiactividad. Planck, Bosones y Fermiones. Interacciones fundamentales.
 
 ### [Unidad 2: Calido y Frío](clases/u02)
-**4 encuentros desde el Jueves 06/Sep al Jueves 27/Sep**
+**5 encuentros desde el Jueves 06/Sep al Jueves 04/Oct**
 
 Estrellas. Astronomía Observacional: sistemas de coordenadas y mapas estelares. Radiación de Cuerpo Negro. Ley de Eddington, Clasificación estelar, Diagrama H-R. Objetos Compactos y evolución estelar. Planetas. Planetas y Exoplanetas. Vida en el Universo: Astrobiología. Galaxias. Modelos y formación. Ejemplos: La Vía Láctea, Otras Galaxias, GalaxyZoo
 
 ## Segundo módulo
-**Del Jueves 04/Oct al Jueves 22/Nov**
+**7 encuentros: del Jueves 11/Oct al Jueves 22/Nov**
 
 ### [Unidad 3: No es lo que se ve, sino lo que se palpa](clases/u03)
-**4 encuentros desde el Jueves 04/Oct al Jueves 25/Oct**
+**3 encuentros desde el Jueves 11/Oct al Jueves 25/Oct**
 
 Relatividad General. Introducción y conceptos básicos. Modelo de Friedman-Lemaître-Robertson-Walker. El error de Einstein. Modelos del Universo. Formación de estructuras. Midiendo distancias. Corrimiento al rojo. El universo en expansión
 
 ### [Unidad 4: Allá lejos y hace tiempo](clases/u04)
-**3 encuentros desde el Jueves 01/Nov al Jueves 22/Nov**
+**4 encuentros desde el Jueves 01/Nov al Jueves 22/Nov**
 
 El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de microondas. Modelo LCDM. Historia térmica del universo. El Big Bang. Primeros segundos del universo. Épocas térmicas de tiempo, inflación, recombinación. Evolución futura del universo. ¿El fin...?
 
