@@ -1,7 +1,7 @@
 ![Banner](materiales/banner.png)
-# Introducción a Partículas, Astrofísica y Cosmología - Segundo semestre de 2017
+# Introducción a Partículas, Astrofísica y Cosmología - Segundo semestre de 2018
 
-**Asignatura del séptimo semestre de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")**
+**Asignatura del cuarto año de la carrera de Profesorado en Física [Universidad Nacional de Río Negro](http://www.unrn.edu.ar/ "UNRN")**
 
 Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descarguelo siguiendo el este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
 
@@ -55,6 +55,24 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 
 ### Evolución de la cursada
 
+* 01, U01C01P, 09/08/2018:
+* 02, U01C01V, 16/08/2018:
+* 03, U01C01V, 23/08/2018:
+* 04, U01C01V, 30/08/2018:
+* 05, U01C01P, 06/09/2018:
+* 06, U01C01V, 13/09/2018:
+* 07, U01C01V, 20/09/2018:
+* 08, U01C01V, 27/09/2018:
+* 09, U01C01P, 04/10/2018:
+* 10, U01C01V, 11/10/2018:
+* 11, U01C01V, 18/10/2018:
+* 12, U01C01V, 25/10/2018:
+* 13, U01C01V, 01/11/2018:
+* 14, U01C01P, 08/11/2018:
+* 15, U01C01V, 15/11/2018:
+* 16, U01C01V, 22/11/2018:
+
+<!---
 * 01, U01C01V, 08/08/2017: Introducción general. Sistemas de coordenadas. La relatividad de Galileo. El experimento de Michelson y Morley. Interpretación de Einstein.
 * 02, U01C02P, 15/08/2017: La relatividad especial. Generalidades. Principios e interpretación. El espaciotiempo. 
 * 03, U01C03V, 22/08/2017: Transformaciones de Lorentz: derivación, significado y casos límites. Regla de adición de velocidades y casos límites. La velocidad de la luz como límite. Entregada guía 01.
@@ -72,6 +90,8 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 15, U04C01V, 16/11/2017: El modelo estándar, interacciones fundamentales, hadrones, color, gluones y QCD 
 * 17, U04C02V, 20/11/2017: El Universo en expansión, efecto Doppler relativista, la ley de Hubble y el Big Bang, Horizontes, densidad crítica
 * 17, U04C03P, 24/11/2017: La recombinación, el fondo de microondas, nucleosíntesis, modelo LCMD, expansión acelerada, historia térmica, posibles escenarios finales. 
-#### (C) 2016, 2017 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
+--->
+
+#### (C) 2016, 2017, 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este trabajo se distribuye en forma gratuita bajo la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
