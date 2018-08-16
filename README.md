@@ -61,7 +61,8 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 
 ### Evolución de la cursada
 
-* 01, U01C01P, 09/08/2018:
+* 01, U01C01V, 16/08/2018:
+<!---
 * 02, U01C01V, 16/08/2018:
 * 03, U01C01V, 23/08/2018:
 * 04, U01C01V, 30/08/2018:
@@ -77,6 +78,7 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 14, U01C01P, 08/11/2018:
 * 15, U01C01V, 15/11/2018:
 * 16, U01C01V, 22/11/2018:
+--->
 
 <!---
 * 01, U01C01V, 08/08/2017: Introducción general. Sistemas de coordenadas. La relatividad de Galileo. El experimento de Michelson y Morley. Interpretación de Einstein.
