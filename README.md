@@ -62,6 +62,7 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 ### Evolución de la cursada
 
 * 01, U01C01V, 16/08/2018:
+
 <!---
 * 02, U01C01V, 16/08/2018:
 * 03, U01C01V, 23/08/2018:
