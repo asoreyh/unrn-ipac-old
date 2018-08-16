@@ -5,11 +5,11 @@
 
 Las clases fueron realizados en [LibreOffice Impress](https://es.libreoffice.org/descubre/impress/), la herramienta de presentaciones de [LibreOffice](https://es.libreoffice.org/). Para poder visualizar correctamente las clases, por favor descarguelo siguiendo el este enlace: **[Descargue LibreOffice](https://es.libreoffice.org/descarga/libreoffice-estable/)**. En Windows, puede ser necesario descargar también la fuente [Cabin](https://www.fontsquirrel.com/fonts/download/cabin). Para facilitar la difusión, se incluyen también versiones de las clases en formato pdf. Para visualizarlo, podría necesitar descargar [Acrobat Reader](https://get.adobe.com/es/reader).
 
-## [Clases](https://github.com/asoreyh/unrn-f3b/tree/master/clases) ##
+## [Clases](https://github.com/asoreyh/unrn-ipac/tree/master/clases) ##
 
-## [Guías de ejercicios](https://github.com/asoreyh/unrn-f3b/tree/master/guias) ##
+## [Guías de ejercicios](https://github.com/asoreyh/unrn-ipac/tree/master/guias) ##
 
-## [Materiales](https://github.com/asoreyh/unrn-f3b/tree/master/materiales) ##
+## [Materiales](https://github.com/asoreyh/unrn-ipac/tree/master/materiales) ##
 
 # Objetivo
 
