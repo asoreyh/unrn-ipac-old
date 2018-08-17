@@ -61,7 +61,7 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 
 ### Evolución de la cursada
 
-* 01, U01C01V, 16/08/2018:
+* 01, U01C01V, 16/08/2018: Introducción general. Sistemas de coordenadas. La relatividad de Galileo. El experimento de Michelson y Morley. Interpretación de Einstein.
 
 <!---
 * 02, U01C01V, 16/08/2018:
@@ -82,7 +82,6 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 --->
 
 <!---
-* 01, U01C01V, 08/08/2017: Introducción general. Sistemas de coordenadas. La relatividad de Galileo. El experimento de Michelson y Morley. Interpretación de Einstein.
 * 02, U01C02P, 15/08/2017: La relatividad especial. Generalidades. Principios e interpretación. El espaciotiempo. 
 * 03, U01C03V, 22/08/2017: Transformaciones de Lorentz: derivación, significado y casos límites. Regla de adición de velocidades y casos límites. La velocidad de la luz como límite. Entregada guía 01.
 * 04, U01C04V, 05/09/2017: Contracción espacial y dilatación temporal. Vida media y longitud de decaimiento para el muón. Dinámica relativista, primera parte
