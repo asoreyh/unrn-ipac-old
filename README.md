@@ -63,6 +63,7 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 
 * 01, U01C01V, 16/08/2018: Introducción general. Sistemas de coordenadas. La relatividad de Galileo. El experimento de Michelson y Morley. Interpretación de Einstein.
 * 02, U01C02V, 29/08/2018: Cinemática y dinámica relativista 
+
 <!---
 * 02, U01C01V, 16/08/2018:
 * 03, U01C01V, 23/08/2018:
