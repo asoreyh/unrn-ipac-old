@@ -58,6 +58,7 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * Breve Historia del Tiempo; Stephen Hawkings; Paidos; 1988; ISBN 9786079377373
 * Física de las noches estrelladas: Astrofísica, Relatividad y Cosmología; Eduardo Battaner; Tusquets Editores; 2011; ISBN: 9788483833421
 * Qué es la vida?; Erwin Schrödinger; Salamanca; 2005.
+* Juego [A slower speed of light](http://gamelab.mit.edu/games/a-slower-speed-of-light/), una visión de como se vería el mundo a velocidad cercanas a la velocidad de la luz; MIT Game Lab; 2013
 
 ### Evolución de la cursada
 
