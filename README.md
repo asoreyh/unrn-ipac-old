@@ -63,12 +63,11 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 ### Evolución de la cursada
 
 * 01, U01C01V, 16/08/2018: Introducción general. Sistemas de coordenadas. La relatividad de Galileo. El experimento de Michelson y Morley. Interpretación de Einstein.
-* 02, U01C02V, 29/08/2018: Cinemática y dinámica relativista 
+* 02, U01C02V, 29/08/2018: Cinemática relativista: postulados de la Relatividad Especial, Transformaciones de Lorentz, Regla de suma de velocidades, contracción espacial y dilatación temporal   
+* 03, U01C03P, 05/09/2018: Dinámica relativista: principios de conservación relativistas, 
+* 04, U01C04P, 06/09/2018: TBA
 
 <!---
-* 02, U01C01V, 16/08/2018:
-* 03, U01C01V, 23/08/2018:
-* 04, U01C01V, 30/08/2018:
 * 05, U01C01P, 06/09/2018:
 * 06, U01C01V, 13/09/2018:
 * 07, U01C01V, 20/09/2018:
