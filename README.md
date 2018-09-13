@@ -66,11 +66,10 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 02, U01C02V, 29/08/2018: Cinemática relativista: postulados de la Relatividad Especial, Transformaciones de Lorentz, Regla de suma de velocidades, contracción espacial y dilatación temporal   
 * 03, U01C03P, 05/09/2018: Dinámica relativista: tiempo propio, principios de conservación relativistas, masa, energía y cantidad de movimiento, invariantes relativistas. 
 * 04, U01C04P, 06/09/2018: Relatividad y cuántica, el mar de dirac, materia y antimateria. El Universo Radiactivo: procesos radiactivos, ley de decaimiento exponencial, tipos y características de decaimientos radiactivos.
-* 05, U02C01V, 06/09/2018: Repaso Unidad 01. TBA
+* 05, U01C05V, 12/09/2018: Decaimientos alfa, beta y gamma. Conservación de la energía en el decaimiento beta. El descubrimiento del neutrino. Repaso Unidad 01.
+* 06, U02C01V, 19/09/2018: Astronomía de posición, 1.
 
 <!---
-* 05, U01C01P, 06/09/2018:
-* 06, U01C01V, 13/09/2018:
 * 07, U01C01V, 20/09/2018:
 * 08, U01C01V, 27/09/2018:
 * 09, U01C01P, 04/10/2018:
