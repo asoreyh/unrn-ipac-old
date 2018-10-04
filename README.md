@@ -69,7 +69,7 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 04, U01C04P, 06/09/2018: Relatividad y cuántica, el mar de dirac, materia y antimateria. El Universo Radiactivo: procesos radiactivos, ley de decaimiento exponencial, tipos y características de decaimientos radiactivos.
 * 05, U01C05V, 12/09/2018: Decaimientos alfa, beta y gamma. Conservación de la energía en el decaimiento beta. El descubrimiento del neutrino. Repaso Unidad 01.
 * 06, U02C01V, 26/09/2018: Astronomía de posición, 1ra parte: sistemas de coordenadas: cordenadadas acimutales, coordenadas ecuatoriales horarias, coordenadas acimutales.
-* 07, U02C02V, 03/10/2018: Astronomía de posición, 2da parte: Cartas celestes, Planetarios, Magnitudes estelares: relativa y absoluta
+* 07, U02C02V, 03/10/2018: Astronomía de posición, 2da parte: Cartas celestes, Planetarios, Magnitudes estelares: escala moderna, magnitud aparente y magnitud absoluta
 
 <!---
 * 07, U01C01V, 20/09/2018:
