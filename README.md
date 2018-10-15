@@ -70,10 +70,9 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 05, U01C05V, 12/09/2018: Decaimientos alfa, beta y gamma. Conservación de la energía en el decaimiento beta. El descubrimiento del neutrino. Repaso Unidad 01.
 * 06, U02C01V, 26/09/2018: Astronomía de posición, 1ra parte: sistemas de coordenadas: cordenadadas acimutales, coordenadas ecuatoriales horarias, coordenadas acimutales.
 * 07, U02C02V, 03/10/2018: Astronomía de posición, 2da parte: Cartas celestes, Planetarios, Magnitudes estelares: escala moderna, magnitud aparente y magnitud absoluta
-
+* 08, U02C03P, 10/10/2018: El cielo nocturno, trabajo con [Stellarium](https://stellarium.org/es/).
+* 09, U02C04P, 11/10/2018: Estrellas. El Sol como referencia. Estrellas como cuerpo negro. Color y temperatura. Espectros estelares. Clasificación espectral. Luminosidad. Relación masa-luminosidad. Betelgeuse y tamaño estelar.
 <!---
-* 07, U01C01V, 20/09/2018:
-* 08, U01C01V, 27/09/2018:
 * 09, U01C01P, 04/10/2018:
 * 10, U01C01V, 11/10/2018:
 * 11, U01C01V, 18/10/2018:
