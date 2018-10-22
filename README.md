@@ -73,29 +73,14 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 08, U02C03P, 10/10/2018: El cielo nocturno, trabajo con [Stellarium](https://stellarium.org/es/).
 * 09, U02C04P, 11/10/2018: Estrellas. El Sol como referencia. Estrellas como cuerpo negro. Color y temperatura. Espectros estelares. Clasificación espectral. Luminosidad. Relación masa-luminosidad. Betelgeuse y tamaño estelar.
 * 10, U02C05V, 17/10/2018: Estrellas: Diagrama Hertzprung-Russel. La secuencia principal. Estrellas Wolf-Rayet, subestrellas y enanas marrones. Estructura interna. El pico de Gamow. Fusión nuclear. Procesos de fusión en las estrellas. La cadena p-p. El ciclo CNO. 
-
-<!---
-* 11, U01C01V, 18/10/2018:
-* 12, U01C01V, 25/10/2018:
-* 13, U01C01V, 01/11/2018:
-* 14, U01C01P, 08/11/2018:
-* 15, U01C01V, 15/11/2018:
-* 16, U01C01V, 22/11/2018:
---->
-
-<!---
-* 07, U02C01V, 26/09/2017: Repaso de Unidad 01, los movimientos de la Tierra, astronomía de posición, la esfera celeste, sistemas de coordenas celestes: coordenadas horizontales y coordenadas ecuatoriales 
-* 08, U02C02V, 03/10/2017: El tiempo, Proyecciones, Cartas celestes, las estrellas en el cielo, flujo de energía, brillo, magnitudes aparentes y absolutas.
-* 09, U02C03P, 10/10/2017: Estrellas, definición, tipos y características. Espectros, clasificación, tamaños. Cuerpo negro, color y temperatura.
-* 10, U02C04P, 12/10/2017: Estrellas, clasificación, tamaños. Flujo de energía y bolómetros. Principales parámetros y su interrelación: masa, radio, temperatura, edad. El diagrama H-R y la secuencia principal.
-* 11, U02C05V, 24/10/2017: Fusión nuclear, Fusión en astrofísica, Nacimiento, evolución y final estelar: enanas blancas, estrellas de neutrones y agujeros negros.
-* 12, U02C06V, 31/10/2017: Planetas, leyes de movimiento planetario, exoplanetas, Astrobiología
-* 13, U03C01P, 07/11/2017: Astrobiología 2da parte, Galaxias, La vía Láctea
-* 14, U03C02V, 14/11/2017: Galaxias, Estrutura a gran escala del Universo, Universo Observable
-* 15, U04C01V, 16/11/2017: El modelo estándar, interacciones fundamentales, hadrones, color, gluones y QCD 
-* 17, U04C02V, 20/11/2017: El Universo en expansión, efecto Doppler relativista, la ley de Hubble y el Big Bang, Horizontes, densidad crítica
-* 17, U04C03P, 24/11/2017: La recombinación, el fondo de microondas, nucleosíntesis, modelo LCMD, expansión acelerada, historia térmica, posibles escenarios finales. 
---->
+* 11, U02C06V, 24/10/2018: Proximamente
+* 12, U00C00V, 25/10/2018: Proximamente
+* 13, U00C00V, 31/10/2018: Proximamente
+* 14, U00C00V, 01/11/2018: Proximamente
+* 15, U00C00P, 07/11/2018: Proximamente
+* 16, U00C00P, 08/11/2018: Proximamente
+* 17, U00C00V, 14/11/2018: Proximamente
+* 18, U00C00V, 21/11/2018: Proximamente
 
 #### (C) 2016, 2017, 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
