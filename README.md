@@ -76,11 +76,10 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 11, U02C06V, 24/10/2018: Proximamente
 * 12, U00C00V, 25/10/2018: Proximamente
 * 13, U00C00V, 31/10/2018: Proximamente
-* 14, U00C00V, 01/11/2018: Proximamente
 * 15, U00C00P, 07/11/2018: Proximamente
 * 16, U00C00P, 08/11/2018: Proximamente
 * 17, U00C00V, 14/11/2018: Proximamente
-* 18, U00C00V, 21/11/2018: Proximamente
+* 18, U00C00V, 21/11/2018: Charla de cierre
 
 #### (C) 2016, 2017, 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
