@@ -73,7 +73,7 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 08, U02C03P, 10/10/2018: El cielo nocturno, trabajo con [Stellarium](https://stellarium.org/es/).
 * 09, U02C04P, 11/10/2018: Estrellas. El Sol como referencia. Estrellas como cuerpo negro. Color y temperatura. Espectros estelares. Clasificación espectral. Luminosidad. Relación masa-luminosidad. Betelgeuse y tamaño estelar.
 * 10, U02C05V, 17/10/2018: Estrellas: Diagrama Hertzprung-Russel. La secuencia principal. Estrellas Wolf-Rayet, subestrellas y enanas marrones. Estructura interna. El pico de Gamow. Fusión nuclear. Procesos de fusión en las estrellas. La cadena p-p. El ciclo CNO. 
-* 11, U02C06V, 24/10/2018: Proximamente
+* 11, U02C06V, 24/10/2018: Estrellas: evolución estelar. Procesos de fusión. Presión de radiación. Evolución estelar. Límite de Chandrasekhar. Muerte estelar: enanas blancas, superovas, estrellas de neutrones y agujeros negros.
 * 12, U00C00V, 25/10/2018: Proximamente
 * 13, U00C00V, 31/10/2018: Proximamente
 * 15, U00C00P, 07/11/2018: Proximamente
