@@ -75,7 +75,7 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 10, U02C05V, 17/10/2018: Estrellas: Diagrama Hertzprung-Russel. La secuencia principal. Estrellas Wolf-Rayet, subestrellas y enanas marrones. Estructura interna. El pico de Gamow. Fusión nuclear. Procesos de fusión en las estrellas. La cadena p-p. El ciclo CNO. 
 * 11, U02C06V, 24/10/2018: Estrellas: evolución estelar. Procesos de fusión. Presión de radiación. Evolución estelar. Límite de Chandrasekhar. Muerte estelar: enanas blancas, superovas, estrellas de neutrones y agujeros negros.
 * 12, U02C07V, 25/10/2018: Leyes de Kepler. El Sistema Solar. Órbitas planetarias. Temperatura orbital. Zona habitable. Exoplanetas. Vida en el Universo. 
-* 13, U03C02V, 31/10/2018: La estructura a gran escala del Universo
+* 13, U03C01V, 31/10/2018: La estructura a gran escala del Universo: Galaxias. La vía Láctea, caracteríticas observacionales. Andrómeda. La forma de las galaxias. Colisión de Galaxias. Clasifiación. El GalaxyZoo. El cúmulo Local. Cúmulos y Supercúmulos galácticos. El gran Atractor. Laniakea. El Universo Observable y el radio de Hubble. Homogeneidad e Isotropía.  
 * 14, U03C03P, 07/11/2018: Relatividad General, 1ra parte
 * 15, U04C01P, 08/11/2018: Relatividad General, 2da parte
 * 16, U04C02V, 14/11/2018: El big bang y cosmología inflacionaria
