@@ -63,23 +63,23 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 
 ### Evolución de la cursada
 
-* 01, U01C01V, 16/08/2018: Introducción general. Sistemas de coordenadas. La relatividad de Galileo. El experimento de Michelson y Morley. Interpretación de Einstein.
-* 02, U01C02V, 29/08/2018: Cinemática relativista: postulados de la Relatividad Especial, Transformaciones de Lorentz, Regla de suma de velocidades, contracción espacial y dilatación temporal   
-* 03, U01C03P, 05/09/2018: Dinámica relativista: tiempo propio, principios de conservación relativistas, masa, energía y cantidad de movimiento, invariantes relativistas. 
-* 04, U01C04P, 06/09/2018: Relatividad y cuántica, el mar de dirac, materia y antimateria. El Universo Radiactivo: procesos radiactivos, ley de decaimiento exponencial, tipos y características de decaimientos radiactivos.
-* 05, U01C05V, 12/09/2018: Decaimientos alfa, beta y gamma. Conservación de la energía en el decaimiento beta. El descubrimiento del neutrino. Repaso Unidad 01.
-* 06, U02C01V, 26/09/2018: Astronomía de posición, 1ra parte: sistemas de coordenadas: cordenadadas acimutales, coordenadas ecuatoriales horarias, coordenadas acimutales.
-* 07, U02C02V, 03/10/2018: Astronomía de posición, 2da parte: Cartas celestes, Planetarios, Magnitudes estelares: escala moderna, magnitud aparente y magnitud absoluta
-* 08, U02C03P, 10/10/2018: El cielo nocturno, trabajo con [Stellarium](https://stellarium.org/es/).
-* 09, U02C04P, 11/10/2018: Estrellas. El Sol como referencia. Estrellas como cuerpo negro. Color y temperatura. Espectros estelares. Clasificación espectral. Luminosidad. Relación masa-luminosidad. Betelgeuse y tamaño estelar.
-* 10, U02C05V, 17/10/2018: Estrellas: Diagrama Hertzprung-Russel. La secuencia principal. Estrellas Wolf-Rayet, subestrellas y enanas marrones. Estructura interna. El pico de Gamow. Fusión nuclear. Procesos de fusión en las estrellas. La cadena p-p. El ciclo CNO. 
-* 11, U02C06V, 24/10/2018: Estrellas: evolución estelar. Procesos de fusión. Presión de radiación. Evolución estelar. Límite de Chandrasekhar. Muerte estelar: enanas blancas, superovas, estrellas de neutrones y agujeros negros.
-* 12, U02C07V, 25/10/2018: Leyes de Kepler. El Sistema Solar. Órbitas planetarias. Temperatura orbital. Zona habitable. Exoplanetas. Vida en el Universo. 
-* 13, U03C01V, 31/10/2018: La estructura a gran escala del Universo: Galaxias. La vía Láctea, caracteríticas observacionales. Andrómeda. La forma de las galaxias. Colisión de Galaxias. Clasifiación. El GalaxyZoo. El cúmulo Local. Cúmulos y Supercúmulos galácticos. El gran Atractor. Laniakea. El Universo Observable y el radio de Hubble. Homogeneidad e Isotropía.  
-* 14, U03C02P, 07/11/2018: Relatividad General, 1ra parte: fuerza de gravedad y fuerza eléctrica: una disquisición sobre las cargas. Masa gravitatoria versus masa inercial. Experimentos en una caja: caja en reposo, caja a velocidad constante, caja acelerada, caja en un campo gravitatorio. El principio de equivalencia. Diagramas de espacio tiempo. Espacio tiempo curvo. Corrimiento al rojo gravitatorio. Dilatación temporal.
-* 15, U04C01V, 14/11/2018: El big bang y cosmología inflacionaria: repaso y significado de la curvatura del espacio-tiempo, efecto doppler, efecto doppler relativista, corrimiento al rojo, medición del corrimiento al rojo de galaxias lejanas, la Ley de Hubble. 
-* 16, U04C02V, 21/11/2018: Expansión y relatividad general
-* 17, U04C03V, 22/11/2018: Evolución térmica y charlas de cierre
+* 01/16, U01C01V, 16/08/2018: Introducción general. Sistemas de coordenadas. La relatividad de Galileo. El experimento de Michelson y Morley. Interpretación de Einstein.
+* 02/16, U01C02V, 29/08/2018: Cinemática relativista: postulados de la Relatividad Especial, Transformaciones de Lorentz, Regla de suma de velocidades, contracción espacial y dilatación temporal   
+* 03/16, U01C03P, 05/09/2018: Dinámica relativista: tiempo propio, principios de conservación relativistas, masa, energía y cantidad de movimiento, invariantes relativistas. 
+* 04/16, U01C04P, 06/09/2018: Relatividad y cuántica, el mar de dirac, materia y antimateria. El Universo Radiactivo: procesos radiactivos, ley de decaimiento exponencial, tipos y características de decaimientos radiactivos.
+* 05/16, U01C05V, 12/09/2018: Decaimientos alfa, beta y gamma. Conservación de la energía en el decaimiento beta. El descubrimiento del neutrino. Repaso Unidad 01.
+* 06/16, U02C01V, 26/09/2018: Astronomía de posición, 1ra parte: sistemas de coordenadas: cordenadadas acimutales, coordenadas ecuatoriales horarias, coordenadas acimutales.
+* 07/16, U02C02V, 03/10/2018: Astronomía de posición, 2da parte: Cartas celestes, Planetarios, Magnitudes estelares: escala moderna, magnitud aparente y magnitud absoluta
+* 08/16, U02C03P, 10/10/2018: El cielo nocturno, trabajo con [Stellarium](https://stellarium.org/es/).
+* 09/16, U02C04P, 11/10/2018: Estrellas. El Sol como referencia. Estrellas como cuerpo negro. Color y temperatura. Espectros estelares. Clasificación espectral. Luminosidad. Relación masa-luminosidad. Betelgeuse y tamaño estelar.
+* 10/16, U02C05V, 17/10/2018: Estrellas: Diagrama Hertzprung-Russel. La secuencia principal. Estrellas Wolf-Rayet, subestrellas y enanas marrones. Estructura interna. El pico de Gamow. Fusión nuclear. Procesos de fusión en las estrellas. La cadena p-p. El ciclo CNO. 
+* 11/16, U02C06V, 24/10/2018: Estrellas: evolución estelar. Procesos de fusión. Presión de radiación. Evolución estelar. Límite de Chandrasekhar. Muerte estelar: enanas blancas, superovas, estrellas de neutrones y agujeros negros.
+* 12/16, U02C07V, 25/10/2018: Leyes de Kepler. El Sistema Solar. Órbitas planetarias. Temperatura orbital. Zona habitable. Exoplanetas. Vida en el Universo. 
+* 13/16, U03C01V, 31/10/2018: La estructura a gran escala del Universo: Galaxias. La vía Láctea, caracteríticas observacionales. Andrómeda. La forma de las galaxias. Colisión de Galaxias. Clasifiación. El GalaxyZoo. El cúmulo Local. Cúmulos y Supercúmulos galácticos. El gran Atractor. Laniakea. El Universo Observable y el radio de Hubble. Homogeneidad e Isotropía.  
+* 14/16, U03C02P, 07/11/2018: Relatividad General, 1ra parte: fuerza de gravedad y fuerza eléctrica: una disquisición sobre las cargas. Masa gravitatoria versus masa inercial. Experimentos en una caja: caja en reposo, caja a velocidad constante, caja acelerada, caja en un campo gravitatorio. El principio de equivalencia. Diagramas de espacio tiempo. Espacio tiempo curvo. Corrimiento al rojo gravitatorio. Dilatación temporal.
+* 15/16, U04C01V, 14/11/2018: El big bang y cosmología inflacionaria: repaso y significado de la curvatura del espacio-tiempo, efecto doppler, efecto doppler relativista, corrimiento al rojo, medición del corrimiento al rojo de galaxias lejanas, la Ley de Hubble. 
+* 16/16, U04C02V, 21/11/2018: Expansión y relatividad general
+* 17/16, U04C03V, 22/11/2018: Evolución térmica y charlas de cierre
 
 #### (C) 2016, 2017, 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
