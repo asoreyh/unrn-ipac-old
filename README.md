@@ -77,9 +77,9 @@ El modelo cosmológico estándar. Modelo de Alpher, Bethe & Gamow. El fondo de m
 * 12, U02C07V, 25/10/2018: Leyes de Kepler. El Sistema Solar. Órbitas planetarias. Temperatura orbital. Zona habitable. Exoplanetas. Vida en el Universo. 
 * 13, U03C01V, 31/10/2018: La estructura a gran escala del Universo: Galaxias. La vía Láctea, caracteríticas observacionales. Andrómeda. La forma de las galaxias. Colisión de Galaxias. Clasifiación. El GalaxyZoo. El cúmulo Local. Cúmulos y Supercúmulos galácticos. El gran Atractor. Laniakea. El Universo Observable y el radio de Hubble. Homogeneidad e Isotropía.  
 * 14, U03C02P, 07/11/2018: Relatividad General, 1ra parte: fuerza de gravedad y fuerza eléctrica: una disquisición sobre las cargas. Masa gravitatoria versus masa inercial. Experimentos en una caja: caja en reposo, caja a velocidad constante, caja acelerada, caja en un campo gravitatorio. El principio de equivalencia. Diagramas de espacio tiempo. Espacio tiempo curvo. Corrimiento al rojo gravitatorio. Dilatación temporal.
-* 15, U04C01V, 14/11/2018: El big bang y cosmología inflacionaria
-* 16, U04C02V, 21/11/2018: Relatividad General, 2da parte
-* 17, U04C03V, 22/11/2018: Evolución térmica y Charla de cierre
+* 15, U04C01V, 14/11/2018: El big bang y cosmología inflacionaria: repaso y significado de la curvatura del espacio-tiempo, efecto doppler, efecto doppler relativista, corrimiento al rojo, medición del corrimiento al rojo de galaxias lejanas, la Ley de Hubble. 
+* 16, U04C02V, 21/11/2018: Expansión y relatividad general
+* 17, U04C03V, 22/11/2018: Evolución térmica y charlas de cierre
 
 #### (C) 2016, 2017, 2018 ... - Hernán Asorey ([@asoreyh](https://twitter.com/asoreyh/))
 
